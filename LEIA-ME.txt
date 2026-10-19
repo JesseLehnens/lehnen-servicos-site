@@ -1,0 +1,25 @@
+LEHNEN SERVIÇOS — SITE DE UMA PÁGINA
+
+Arquivos:
+- index.html: site completo, responsivo, com SEO básico e links de WhatsApp.
+
+ANTES DE PUBLICAR:
+1. Troque https://SEU-DOMINIO.com.br/ no canonical pelo endereço final do site.
+2. Envie o logo e fotos reais para personalizar os espaços indicados no site.
+3. Revise as cidades efetivamente atendidas e os serviços oferecidos.
+4. Não acrescente endereço residencial público se você atende na casa do cliente.
+
+PUBLICAÇÃO GRATUITA — GITHUB PAGES:
+1. Crie/acesse uma conta em https://github.com/
+2. Crie um repositório público chamado lehnen-servicos-site.
+3. Faça upload do arquivo index.html para a raiz do repositório.
+4. Abra Settings > Pages.
+5. Em Build and deployment, selecione Deploy from a branch; branch main e folder /(root); salve.
+6. Aguarde a publicação. O endereço será semelhante a https://SEU-USUARIO.github.io/lehnen-servicos-site/
+7. Substitua o canonical dentro do index.html pelo endereço final e envie o arquivo atualizado.
+
+NOTAS:
+- A hospedagem GitHub Pages é gratuita para sites estáticos públicos, sujeita aos termos da plataforma.
+- O site não inclui sistema de agendamento, formulário com armazenamento ou painel administrativo.
+- Os links de WhatsApp usam o número informado: +55 51 99848-6930.
+- O site tem SEO inicial (título, descrição, headings, responsividade e dados estruturados), mas isso não garante posição específica no Google.
